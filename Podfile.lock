@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.4.1)
+  - CropViewController (2.6.0)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - Realm (10.1.4):
+    - Realm/Headers (= 10.1.4)
+  - Realm/Headers (10.1.4)
+  - RealmSwift (10.1.4):
+    - Realm (= 10.1.4)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - CropViewController
+  - NVActivityIndicatorView
+  - RealmSwift (= 10.1.4)
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CropViewController
+    - NVActivityIndicatorView
+    - Realm
+    - RealmSwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  CropViewController: 7093b39ec3cb508531b22d35773e06cecd7378d8
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  Realm: 80f4fb2971ccb9adc27a47d0955ae8e533a7030b
+  RealmSwift: 0e566ca714edb377bba8ea0811eafcea0b93734e
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+
+PODFILE CHECKSUM: 88c7e20b2ca547c7a939f52122aab2e5a3f3ec67
+
+COCOAPODS: 1.10.1
